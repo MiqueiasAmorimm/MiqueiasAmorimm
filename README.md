@@ -2,7 +2,7 @@
 
 ## Intro
 
-Developer since 2023. I work with JavaScript using:
+Developer since 2024. I work with JavaScript using:
 
 - CSS
   -HTML
