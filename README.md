@@ -5,8 +5,6 @@
 Developer since 2025. I work with JavaScript using:
 
 - Java
-  -HTML
-  -React.js
   -Lógica de programação
 
 ## My Courses:
