@@ -2,14 +2,16 @@
 
 ## Intro
 
-Developer since 2024. I work with JavaScript using:
+Developer since 2025. I work with JavaScript using:
 
-- CSS
+- Java
   -HTML
   -React.js
   -Lógica de programação
 
 ## My Courses:
 
--Systems Analysis and Development
+-Software Engineering (undergraduate degree)
+-COMPLETE Java Object Oriented Programming + Projects (studying Udemy)
+
 
