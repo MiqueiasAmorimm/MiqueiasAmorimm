@@ -2,7 +2,7 @@
 
 ## Intro
 
-Developer since 2025. I work with JavaScript using:
+Developer since 2025. I work with Java, JavaScript, Angular using:
 
 - Java
   -Lógica de programação
